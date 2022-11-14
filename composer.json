@@ -1,5 +1,5 @@
 {
-    "name": "helpspot/helpspot",
+    "name": "caleb-fp/helpspot",
     "type": "library",
     "description": "A PHP wrapper for the HelpSpot help desk api",
     "keywords": [
@@ -7,7 +7,7 @@
         "help desk software",
         "ticket software"
     ],
-    "homepage": "https://github.com/helpspot/helpspot-php",
+    "homepage": "https://github.com/caleb-fp/helpspot-php",
     "license": "MIT",
     "authors": [
         {
